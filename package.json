@@ -1,0 +1,29 @@
+{
+  "name": "thoughts-extension",
+  "version": "0.0.1",
+  "description": "A chrome extension that provides a thought every time a new tab opens",
+  "main": "index.js",
+  "dependencies": {
+    "thoughts": "2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirajpandkar/thoughts-chrome-extension.git"
+  },
+  "keywords": [
+    "thought",
+    "of",
+    "the",
+    "day"
+  ],
+  "author": "Niraj Pandkar <niraj.pandkar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nirajpandkar/thoughts-chrome-extension/issues"
+  },
+  "homepage": "https://github.com/nirajpandkar/thoughts-chrome-extension#readme"
+}
