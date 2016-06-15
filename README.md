@@ -1,7 +1,7 @@
 # Thought of the new-tab
 > Provides thoughts every time a new tab opens.
 
-![alt text](Images/thought-screenshot.png "Example Screenshot")
+![alt text](Images/thoughts-screenshot.png "New Tab Screenshot")
 
 A really minimal and simple ( like totally beginner level :P ) chrome extension that implements `thoughts` [library](https://github.com/nirajpandkar/thought-of-the-day).
 
