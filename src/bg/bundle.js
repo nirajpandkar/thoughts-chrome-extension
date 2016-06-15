@@ -136,9 +136,16 @@ module.exports = function (min, max) {
 
 },{}],5:[function(require,module,exports){
 var lib = require('thoughts');
+var uniqueRandomArray = require('unique-random-array');
+
 var randomQuote = lib.random();
+var bg_colors=["brown","pink","blue","red"];
+var randomColor = uniqueRandomArray(bg_colors);
 window.onload = function(){
   document.getElementById('thought').innerHTML = randomQuote.thought;
   document.getElementById('author').innerHTML = randomQuote.author;
+  document.getElementById('container').className='colorize-bg-'+randomColor();
 };
-},{"thoughts":1}]},{},[5]);
+
+
+},{"thoughts":1,"unique-random-array":3}]},{},[5]);
