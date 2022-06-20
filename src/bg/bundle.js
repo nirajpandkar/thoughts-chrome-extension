@@ -48,6 +48,14 @@ module.exports={
       "thought": "Scale is important for a startup. Think big, but take one day at a time."
     },
     {
+      "author": "P. S. Tiwari",
+      "thought": "Our seriousness prevents us from enjoying the circus of life."
+    },
+    {
+      "author": "P. S. Tiwari",
+      "thought": "Care only for those who deserve it as we are not joker to entertain everyone."
+    },
+    {
       "author": "Vijay Shekhar Sharma",
       "thought": "Be so sharp that you cut"
     },
